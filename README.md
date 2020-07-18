@@ -50,9 +50,9 @@ Em `index.html` você deverá ter essa estrutura.
 
 Aqui começamos com a estrutura padrão do `HTML`.
 
-Temos um `<script src="https://unpkg.com/feather-icons"></script>` para poder acessar os icones do `Feather`.
+Temos um `<script src="https://unpkg.com/feather-icons"></script>` para poder acessar os icones do `Feather Icons`.
 
-Temos um `<link rel="stylesheet" href="style.css">` que leva para nosso `style.css`, onde será feito os stilo do card.
+Temos um `<link rel="stylesheet" href="style.css">` que leva para nosso `style.css`, onde será feito o estilo do card.
 
 No `body` temos uma `div` principal com a classe `wrapper`, logo a baxio se encontra nossa `div.card`, onde ficará nossa imagem e nossos icones.
 
